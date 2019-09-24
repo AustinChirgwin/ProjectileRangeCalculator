@@ -2,12 +2,6 @@
 #include <stdio.h> 
 #include <math.h>
 
-//Assignment 2
-//Austin Chirgwin
-//ENGR 19700
-//Wednesday, September 8, 2019
-//This program calculates the range of a pumpkin that is launched from ground level based solely on initial velocity and angle of the launch
-
 int main(void)
 {
 	double v;
